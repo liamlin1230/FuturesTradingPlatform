@@ -1,0 +1,19 @@
+Finished:
+  strategy 
+  connect to broker Server through CTP API
+  subscribe to server through CTP API
+  receive real-time market data every 0.5 sec
+  connect to Microsoft sql server using ODBC
+  parse data and import data to database
+
+On going:
+  automate trading
+  use tick data to create candle stick graph
+  multi threading
+  connect strategy to platform
+  User Interface
+  Log in
+  
+  
+ 
+self-developed Strategy/Algo not published, still require months of work to complete all the tasks.
